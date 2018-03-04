@@ -393,6 +393,14 @@ ul.cd-hero-slider {
 	overflow: hidden;
 }
 
+.project-item .thumb ul{
+    margin: 0; padding: 0;
+}
+
+.project-item .thumb li{
+    margin: 0; padding: 0;
+}
+
 .project-item .hover-effect {
 	position: absolute;
 	background-color: rgba(162, 207, 141, 0.95);
@@ -404,6 +412,13 @@ ul.cd-hero-slider {
 	transition: all 0.5s;
 }
 
+.project-item .hover-effect ul{
+    margin: 0; padding: 0;
+}
+
+.project-item .hover-effect li{
+    margin: 0; padding: 0;
+}
 .project-item .hover-effect i {
 	text-align: center;
 	margin-top: 35%;
